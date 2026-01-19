@@ -406,6 +406,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) - Pipes terminal screensaver
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring tool
+
 ## Oh-My
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Cross-shell prompt
 
